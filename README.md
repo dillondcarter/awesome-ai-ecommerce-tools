@@ -245,6 +245,13 @@ A curated list of awesome AI-powered tools and resources for e-commerce success.
 - **Best for**: Large retailers, brands
 - **AI capabilities**: Price elasticity modeling, demand sensing, competitive intelligence
 
+**[Aura](https://goaura.com)** - AI-powered Amazon repricing
+- **What it does**: Automatically adjusts Amazon listing prices to balance sales velocity and profit margin
+- **Key features**: Maven AI strategies, automatic price limits, scheduled workflows, pricing activity logs, bulk listing updates
+- **Pricing**: From $451/year with annual billing; 14-day free trial; Starter includes Maven for 250 listings
+- **Best for**: Amazon sellers managing competitive listings and repricing across their catalog
+- **AI capabilities**: Maven learns from listing and competitor behavior, adjusts pricing strategies, and calculates maximum prices dynamically
+
 ### Revenue Optimization
 
 **[Dynamic Yield](https://www.dynamicyield.com)** - AI-powered personalization and optimization
